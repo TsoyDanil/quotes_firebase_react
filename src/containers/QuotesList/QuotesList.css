@@ -1,0 +1,11 @@
+.QuotesList__title{
+    margin: 40px auto;
+    text-transform: capitalize;
+    color: yellow;
+
+}
+.QuotesList{
+    margin: 10px auto;
+    max-width: 1000px;
+    width: 100%;
+}

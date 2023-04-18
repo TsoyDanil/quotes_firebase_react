@@ -1,0 +1,1 @@
+export const apiUrl: string = 'https://exam-8-1e6fc-default-rtdb.firebaseio.com/'

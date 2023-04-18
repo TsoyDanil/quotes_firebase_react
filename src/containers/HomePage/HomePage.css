@@ -1,0 +1,8 @@
+.HomePage{
+    max-width: 1000px;
+    width: 100%;
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 20px;
+    background: rgb(224, 224, 15);
+}

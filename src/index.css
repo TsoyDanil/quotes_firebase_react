@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Sono', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: gray;
+  background: black;
+}
+
+input{
+  font-family: 'Sono', sans-serif;
+}
+
+button{
+  font-family: 'Sono', sans-serif;
+  margin-top: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+  color: black;
+  border: 3px solid black;
+  padding: 10px 20px;
+}
+
+button:hover{
+  background: black;
+  color: yellow;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}

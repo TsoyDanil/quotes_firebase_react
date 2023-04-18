@@ -1,0 +1,28 @@
+.QuotesContainer{
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 1000px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.QuotesLayout{
+    display: flex;
+    justify-content: space-between;
+}
+
+.NavLink__category{
+    color:yellow;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.NavLink__category:hover{
+    transform: translateY(-0.2em);
+}
+
+.active{
+    color: gray;
+}

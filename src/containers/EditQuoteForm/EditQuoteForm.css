@@ -1,0 +1,18 @@
+.EditQuote{
+    max-width: 1000px;
+    width: 100%;
+    margin: 10px auto;
+    padding: 20px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    background: rgb(224, 224, 15);
+}
+
+.EditQuote form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}

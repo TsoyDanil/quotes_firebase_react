@@ -1,0 +1,29 @@
+.Layout{
+    margin: 0 auto 20px auto;
+    padding: 10px;
+    background: rgb(224, 224, 15);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.NavLink__container{
+    display: flex;
+}
+
+.NavLink{
+    display: block;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    transition: 0.3s;
+}
+
+.NavLink:hover{
+    transform: translateY(-0.2em);
+}
+
+.active{
+    color: gray;
+}
